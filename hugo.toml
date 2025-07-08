@@ -1,0 +1,29 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'M.Felix'
+theme = 'hugo-book'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[menu]
+# [[menu.before]]
+[[menu.after]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/nmfel/"
+  weight = 10
+
+[[menu.after]]
+  name = "Google Scholar"
+  url = "https://scholar.google.com/citations?user=tW0jFkgAAAAJ&hl=en"
+  weight = 20
+
+[params]
+    BookTheme = 'light'
+    BookSection = 'docs'
+    BookSearch = false
+    BookRepo = 'https://github.com/nmfel/mfelix.github.io'
+    BookComments = false

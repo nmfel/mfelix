@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on M.Felix</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on M.Felix</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tentang Saya</title>
+      <link>http://localhost:1313/docs/tentangsaya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/tentangsaya/</guid>
+      <description>&lt;h1 id=&#34;tentang-saya&#34;&gt;&#xD;&#xA;  &lt;strong&gt;Tentang Saya&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tentang-saya&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Saya mulai menyusun cara pandang terhadap dunia sejak masa kuliah di Universitas Katolik Parahyangan, ketika untuk pertama kalinya saya mendalami bagaimana perdagangan, kerja sama ekonomi, dan posisi negara di sistem global saling berkaitan. Pendidikan itu mempertemukan saya dengan banyak pertanyaan yang tidak selesai di ruang kelas, dan justru semakin mendorong ketertarikan saya terhadap hubungan antara ekonomi, politik, dan masyarakat.&lt;/p&gt;&#xA;&lt;p&gt;Pengalaman tersebut mendorong saya melanjutkan studi ke jenjang magister di Universitas Indonesia, memperdalam perhatian saya pada isu-isu yang berkaitan dengan komoditas strategis, kerja sama kawasan, serta dinamika kekuasaan di antara negara-negara berkembang. Proses akademik ini membentuk cara saya dalam melihat kebijakan bukan sebagai produk teknis, tetapi sebagai hasil dari tarik menarik kepentingan yang kompleks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
