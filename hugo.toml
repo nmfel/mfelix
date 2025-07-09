@@ -27,3 +27,7 @@ theme = 'hugo-book'
     BookSearch = false
     BookRepo = 'https://github.com/nmfel/mfelix.github.io'
     BookComments = false
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
