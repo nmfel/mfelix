@@ -27,6 +27,7 @@ theme = 'hugo-book'
     BookSearch = false
     BookRepo = 'https://github.com/nmfel/mfelix.github.io'
     BookComments = false
+	google_verification = "o5sZ6WKHlsrxwhwiemRR5ylCzP4V6thuwgnJJuLn_gs"
 
 [caches]
   [caches.images]
