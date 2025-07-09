@@ -23,7 +23,7 @@ jobs:
           extended: true
 
       - name: Run Hugo
-        working-directory: exampleSite
+        working-directory: mfelix
         run: hugo --themesDir ../..
 
       # - name: Deploy
